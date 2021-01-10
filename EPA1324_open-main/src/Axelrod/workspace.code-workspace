@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\.."
+		},
+		{
+			"path": "..\\..\\.."
+		}
+	],
+	"settings": {
+		"python.pythonPath": "C:\\Python\\Python3.9\\python.exe",
+		"python.condaPath": "C:\\Python\\Anaconda\\python.exe"
+	}
+}
